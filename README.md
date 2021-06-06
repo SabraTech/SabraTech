@@ -15,7 +15,7 @@
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sabratech&count_private=true&show_icons=true&include_all_commits=true&theme=solarized-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabratech&hide=TeX)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabratech&hide=TeX&layout=compact)
 
 <!--
 **SabraTech/SabraTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
