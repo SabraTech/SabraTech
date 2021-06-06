@@ -1,4 +1,5 @@
 ### Hi there 👋
+<!-- ![Visitor Count](https://profile-counter.glitch.me/sabratech/count.svg) -->
 
 [![Years Badge](https://badges.pufler.dev/years/sabratech)](https://badges.pufler.dev)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
